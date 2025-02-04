@@ -1,0 +1,1 @@
+This is a txt file I'm creating . The purpose is to learn how to create a file on github.
